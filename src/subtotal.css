@@ -1,0 +1,19 @@
+.subtotal {
+    margin-left: 700px;
+    margin-top: 70px;
+    background-color: lightgreen;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.totalValue {
+    font-size: 20px;
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    background-color: aliceblue;
+}

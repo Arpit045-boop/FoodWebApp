@@ -1,0 +1,39 @@
+.product {
+    margin: 15px;
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+    padding: 15px;
+    background-color: lightblue;
+    text-align: left;
+}
+
+.rating {
+    display: inline-flex;
+    background-color: black;
+    border-radius: 12px;
+    width: 150px;
+    color: white;
+    padding-right: 25px;
+    margin-bottom: 20px;
+}
+
+.foodImg {
+    text-align: center;
+    margin-top: -12px;
+}
+.price {
+    font-weight: bold;
+}
+
+.foodDetail {
+    display: inline-flex;
+    margin-top: 10px;
+    margin-bottom: -12px;
+}
+
+img {
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+}

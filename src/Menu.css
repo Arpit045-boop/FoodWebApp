@@ -1,0 +1,52 @@
+.Menu {
+    text-align: center;
+}
+
+.col-lg-6 {
+    margin-top: 100px;
+}
+
+.col-lg-2 {
+    background-color: lightgreen;
+    height: 850px;
+}
+
+.checkout_menu {
+    margin-top: 50px;
+}
+
+.btn-success {
+    width: 150px;
+    display: block;
+    margin-left: 160px;
+    margin-bottom: 25px;
+}
+
+.checkout_array {
+    display: inline-flex;
+    margin-top: 20px;
+    margin-right: 15px;
+}
+
+.image_checkout {
+    margin-right: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+h5 {
+    color: white;
+    padding-top: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.size {
+    background-color: black;
+    color: white;
+    margin-left: 5px;
+    padding: 10px;
+
+}
